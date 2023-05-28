@@ -1,5 +1,5 @@
 ## USER
-Write a PYTHON program to scheme a few activation functions that are used in neural networks
+Write a PYTHON program to scheme a few activation functions that are used in neural networks.
 
 ## ASSISTANT
 Here's a Python program that implements several common activation functions used in neural networks:
